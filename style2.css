@@ -1,0 +1,9 @@
+div {
+text-align: center;
+}
+.right {
+	display: block;
+	margin-left: 200;
+	margin-right: auto;
+	width: 60%;
+}
